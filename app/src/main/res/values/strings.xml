@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">blockmyapp</string>
+    <string name="title_activity_start_session">StartSession</string>
+    <string-array name="exercises_array">
+        <item>Duolingo</item>
+        <item>Sololearn</item>
+        <item>Memo</item>
+    </string-array>
+    <string-array name="duolingo_exercises">
+        <item>Japanese/Danish</item>
+        <item>German/Danish</item>
+    </string-array>
+</resources>
